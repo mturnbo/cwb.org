@@ -888,3 +888,54 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+/*--------------------------------------------------------------
+## Homepage
+--------------------------------------------------------------*/
+.centered {
+    text-align: center;
+}
+
+.section1 {
+    margin: auto;
+    width: 60%;
+}
+
+.section2 {
+    margin: auto;
+    width: 80%;
+}
+
+.elements1 {
+    display: inline-block;
+    border: 1px solid #999999;
+    width:200px;
+    text-align: left;
+    margin: 10px;
+}
+
+.elements1 p,h3{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.tableProjectText {
+    display: table-cell;
+    width: 100%;
+    vertical-align: top;
+}
+
+.tableProjectImage {
+    display: table-cell;
+    min-width: 300px;
+}
+
+.projectTitle {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.paddedLine {
+    margin-top: 50px;
+    margin-bottom: 50px
+}
